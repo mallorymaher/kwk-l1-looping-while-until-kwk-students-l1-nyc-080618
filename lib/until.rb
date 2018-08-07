@@ -5,3 +5,5 @@ def leviosa
     leviosa_force += 1
   end
 end
+
+leviosa
